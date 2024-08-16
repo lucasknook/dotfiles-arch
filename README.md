@@ -19,7 +19,7 @@ The Spotify module is [polybar-spotify](https://github.com/Jvanrhijn/polybar-spo
 - cava
 
 # Rofi
-The powermenu and application launchers are taken and modified from [ai1090x/rofi](https://github.com/adi1090x/rofi). Optionally i 
+The powermenu and application launchers are taken and modified from [ai1090x/rofi](https://github.com/adi1090x/rofi). 
 
 # Neovim
 For Neovim, I used [vim-plug](https://github.com/junegunn/vim-plug) to maintain the plugins, to install, follow the instructions on the github repository.
