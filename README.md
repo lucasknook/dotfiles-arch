@@ -24,6 +24,9 @@ The powermenu and application launchers are taken and modified from [ai1090x/rof
 # Neovim
 For Neovim, I used [vim-plug](https://github.com/junegunn/vim-plug) to maintain the plugins, to install, follow the instructions on the github repository.
 
+# Spotify
+The Spotify theme used is the Catppuccin theme from the [Spicetify](https://github.com/spicetify/cli) [marketplace](https://github.com/spicetify/marketplace).
+
 # Flameshot
 Flameshot has been configured to behave more like the Windows 10 snipping tool. Keybinds are present in the i3 config.
 
