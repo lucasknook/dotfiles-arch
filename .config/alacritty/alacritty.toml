@@ -1,0 +1,43 @@
+[colors.bright]
+black = "#434758"
+blue = "#9cc4ff"
+cyan = "#a3f7ff"
+green = "#ddffa7"
+magenta = "#e1acff"
+red = "#ff8b92"
+white = "#ffffff"
+yellow = "#ffe585"
+
+[colors.cursor]
+cursor = "#aaaaff"
+text = "#292d3e"
+
+[colors.normal]
+black = "#292d3e"
+blue = "#ff00ff"
+cyan = "#89ddff"
+green = "#aa55ff"
+magenta = "#55ff7f"
+red = "#ffaa7f"
+white = "#d0d0d0"
+yellow = "#ffcb6b"
+
+[colors.primary]
+background = "#292d3e"
+bright_foreground = "#d0d0d0"
+foreground = "#82aaff"
+
+[font]
+size = 16
+
+[font.normal]
+family = "Ubuntu Mono"
+style = "Light"
+
+[window]
+decorations = "full"
+opacity = 0.9
+
+[window.padding]
+x = 10
+y = 10
